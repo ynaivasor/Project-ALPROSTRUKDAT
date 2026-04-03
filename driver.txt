@@ -1,0 +1,3 @@
+Agus;Beat;AB 123 AA;4
+Cecep;Nmax;AE 789 BB;3
+Aku;Nmax;AB 123;7
